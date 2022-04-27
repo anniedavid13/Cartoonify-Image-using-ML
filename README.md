@@ -1,3 +1,3 @@
-# annielab3
-#hi im annie
-#e20cse068
+A cartoon can be defined as a type of illustration usually drawn but sometimes animated, in either an unrealistic or realistic style. While the specific meaning has evolved over time, the modern-day usually means in a satirical way for the grown-ups to present information and as a source of entertainment for the kids. Cartoons play a vital role in the way the media is portrayed nowadays. Whether it's the news or social media or even on television, cartoons are used to portray a variety of emotions. However, to convert an image into a vectorized form, the artist needs to spend extensive and tiring hours on the same image, perfecting it and saving all the flaws. We aim to create an AIML model that reduces the stress and work of a craftsman. 
+After trying out the entire process in two ways, using K-means clustering and through image processing it was found that the K-means clustering algorithm was not able to compete with the accuracy of normal image processing.
+
